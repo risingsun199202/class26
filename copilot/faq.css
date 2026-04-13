@@ -1,0 +1,14 @@
+.accordion-header {
+    background-color: #CCCCCC;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.accordion-content {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
